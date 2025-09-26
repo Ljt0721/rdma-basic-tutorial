@@ -132,13 +132,13 @@ rdma_test/
 
 ### API文档
 
-- (ibv_poll_cq为例)
+(ibv_poll_cq为例)
 - [IBM官方文档](https://www.ibm.com/docs/zh/aix/7.3.0?topic=management-ibv-poll-cq)
 - [RDMA Mojo](https://www.rdmamojo.com/2013/02/15/ibv_poll_cq/)
 
 ### CMake 教程
 
-- (如果是算法大佬, 还不懂 cpp 项目的构建可自学)
+(如果是算法大佬, 还不懂 cpp 项目的构建可自学)
 - [CMake 入门实战](https://github.com/wzpan/cmake-demo/tree/master)
 
 ### 思维导图
